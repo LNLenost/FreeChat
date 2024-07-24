@@ -1,1 +1,0 @@
-you should add close button in the Feedback window
