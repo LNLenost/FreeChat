@@ -1,1 +1,0 @@
-You should add a specialized beta tester room, and maybe a feature that lets users mute the message send sound.
